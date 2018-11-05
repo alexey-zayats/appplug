@@ -1,8 +1,8 @@
-Appplug is the sample of plugin loader with Qt
+Appplug is the sample of plugins loading with Qt
 
-Build:
-qmake && make
-
-Not on run:
-linux: LD_LIBRARY_PATH=./libs ./bin/appplug
-macx: DYLD_LIBRARY_PATH=./libs ./bin/appplug
+Build:<br/>
+qmake && make<br/>
+<br/>
+Note on run:<br/>
+linux: LD_LIBRARY_PATH=./libs ./bin/appplug<br/>
+macx: DYLD_LIBRARY_PATH=./libs ./bin/appplug<br/>
